@@ -1,0 +1,14 @@
+---
+username: <intelligrow_username>
+password: <intelligrow_password>
+source:
+  growroom: <growroom_name>
+  device: <device_name>
+  serial: <device_serial>
+target:
+  growroom: <growroom_name>
+  device: <device_name>
+  serial: <device_serial>
+sample_time: 10
+trigger_level: 360
+reset_midnight: true
